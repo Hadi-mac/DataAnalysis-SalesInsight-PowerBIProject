@@ -50,6 +50,7 @@ db_dump.sql - MySQL database dump
 myProject PowerBI Dashboard Sales Insights.pbix - Power BI dashboard file
 myProject PowerBI Dashboard Sales Insights.png - Dashboard preview
 README.md - Project documentation
+Sales Analysis PowerBI Dashboard Report.docx - Dashboard Report
 
 📢 Author
 Hadi Hussain
